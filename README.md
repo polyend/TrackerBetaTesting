@@ -1,5 +1,7 @@
 # Polyend Tracker Issue Tracking
 
+![Polyend Tracker Product Image](./images/product-image.jpg)
+
 This repository exists to enable community members to submit and track
 known issues with the [Polyend Tracker](https://polyend.com/tracker/).
 You can submit bug reports **as well as** feature requests here.
@@ -7,7 +9,9 @@ You can submit bug reports **as well as** feature requests here.
 ## The rules are simple
 
 * **Check for duplicates** before submitting your bug report or idea.
-  We might get a little grumpy if you don't.
+  We might get a little grumpy if you don't.  First time on GitHub?
+  No worries, the Search bar is right on the [Issues](https://github.com/polyend/TrackerIssues/issues)
+  page.  Just try a few queries for what you're looking for.
 
 * **Always** refer to the particular firmware version you're currently
   using.  This is crucial for us to determine if the problem is still
@@ -30,6 +34,13 @@ We're especially looking for:
   bug report);
 
 * zipped projects from the SD card.
+
+## Ready to contribute?
+
+Did you read all that and after searching for your issue you don't see
+it mentioned anywhere?  Alright, click below to get started:
+
+[![New issue](./images/new-issue.png)](https://github.com/polyend/TrackerIssues/issues/new/choose)
 
 ## Thanks!
 
