@@ -1,8 +1,8 @@
 # Polyend Tracker Issue Tracking
 
 This repository exists to enable community members to submit and track
-known issues with the Polyend Tracker.  You can submit bug reports
-**as well as** feature requests here.
+known issues with the [Polyend Tracker](https://polyend.com/tracker/).
+You can submit bug reports **as well as** feature requests here.
 
 ## The rules are simple
 
@@ -11,7 +11,10 @@ known issues with the Polyend Tracker.  You can submit bug reports
 
 * **Always** refer to the particular firmware version you're currently
   using.  This is crucial for us to determine if the problem is still
-  there or whether it's been already fixed.
+  there or whether it's been already fixed.  To save yourself the
+  trouble,
+  [look here for the latest published firmware](https://polyend.com/downloads/).
+  Your issue might already be addressed!
 
 * A **clear English description** makes it easier for us to understand you.
   Please don't ignore the provided template!
