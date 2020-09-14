@@ -5,11 +5,27 @@ title: "[Firmware version] Bug title"
 labels: bug
 assignees: ""
 ---
-Please describe the steps to reproduce the bug.
-Sometimes, the best way is to record a short video and/or attach the project and provide links.
-Both need to be on external service (please use the one that does not delete files after short time).
+## Hi, sorry you had trouble!
 
-Additional questions to answer:
-Does this bug happen every time or just once?
-Does this bug happen in previous firmware versions?
-Does this bug happen in every project?
+### Steps to reproduce
+
+Please describe the steps to reproduce the bug. Tell us what you noticed
+happening and what you expected to happen instead.
+
+### Attachments and links
+
+Often the best way to show the problem is to record a short video,
+attach the Tracker project you were working on, and provide links.
+
+Pro-tip: You can drag and drop images and `.zip` files directly to the edit
+box when writing your bug reports. Videos are too big as attachments, you
+will have to use an external service for this and provide us links. Please
+don't use services that delete files after short periods of time.
+
+### Other important information
+
+* How often does this bug happen? (every time, often, "it only happened once")
+
+* Does this bug happen in previous firmware versions?
+
+* Does this bug happen in every project?
