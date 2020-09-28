@@ -72,11 +72,19 @@ a mailing list notifying of new beta releases.
 
 ## If you find bugs
 
-If you're upgrading between beta releases, use the "Reset Config"
-feature in the Firmware section of the Config screen. That will ensure
-
 That's why we're testing! Report them
 [here](https://github.com/polyend/TrackerIssues).
+
+But first, if you're upgrading between beta releases, check the following:
+
+* use the "Reset Config" feature in the Firmware section of the Config
+  screen to ensure your problem wasn't related to some configuration
+  format changes between beta releases;
+
+* delete the hidden "Workspace" folder from your SD card to ensure your
+  problem isn't caused by changed data formats;
+
+* disconnect power from the device for a few seconds.
 
 
 ## In case of serious trouble
