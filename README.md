@@ -18,7 +18,8 @@ You can submit bug reports **as well as** feature requests here.
   there or whether it's been already fixed.  To save yourself the
   trouble,
   [look here for the latest published firmware](https://polyend.com/downloads/).
-  Your issue might already be addressed!
+  Your issue might already be addressed!  If you're interested in testing
+  beta firmware, read [HOWTO_BETA_FIRMWARE.md](./HOWTO_BETA_FIRMWARE.md).
 
 * A **clear English description** makes it easier for us to understand you.
   Please don't ignore the provided template!
