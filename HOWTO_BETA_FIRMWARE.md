@@ -70,14 +70,45 @@ Finally, you can ask over at https://help.polyend.com/ to be added to
 a mailing list notifying of new beta releases.
 
 
-## In case of trouble
-
-If your device lost power during the upgrade, the SD file was damaged,
-or the firmware doesn't boot up for any other reason, download the
-Polyend Tool from [the Polyend website](https://polyend.com/downloads/)
-and connect your Tracker directly to your computer with a USB cable.
-
 ## If you find bugs
+
+If you're upgrading between beta releases, use the "Reset Config"
+feature in the Firmware section of the Config screen. That will ensure
 
 That's why we're testing! Report them
 [here](https://github.com/polyend/TrackerIssues).
+
+
+## In case of serious trouble
+
+If your device lost power during the upgrade, the SD file was damaged,
+or the firmware doesn't boot up for any other reason, perform the
+emergency flashing procedure as follows:
+
+* download the Polyend Tool from
+  [the Polyend website](https://polyend.com/downloads/);
+
+* download a known working firmware file either from the Polyend website
+  or one of the previous beta `.ptf` files;
+
+* **important:** remove the SD card from the Tracker; 
+
+* connect your Tracker directly to your computer with a USB cable
+  (avoid USB hubs and dongles);
+
+* power up the Tracker;
+
+* in the Polyend Tool, choose the `.ptf` file you want to flash with;
+
+* use a pin to press the hidden Reset button next to the Tracker's
+  USB C port;
+
+* wait for the firmware update to complete;
+
+* if it's at 100% but the device didn't reboot on its own, do it
+  manually;
+
+* re-insert the SD card to the Tracker's slot.
+
+Still seeing crashes?  Try this: connect your SD card to your computer
+and delete the hidden "Workspace" folder.
