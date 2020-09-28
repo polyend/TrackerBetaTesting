@@ -55,6 +55,21 @@ After selecting the right file, press Select and wait for the upgrade to
 finish.  You should see it progress through the file and restart the
 device.
 
+## How to get notified about new releases?
+
+If you sign up for GitHub and subscribe to our TrackerIssues repository,
+you'll get notified about new releases:
+
+![Watch releases on GitHub](./images/watch-releases-on-gh.png)
+
+You can also sign up for our official
+[Polyend Tracker group](https://www.facebook.com/groups/polyendtracker/)
+on Facebook.
+
+Finally, you can ask over at https://help.polyend.com/ to be added to
+a mailing list notifying of new beta releases.
+
+
 ## In case of trouble
 
 If your device lost power during the upgrade, the SD file was damaged,
