@@ -66,9 +66,6 @@ You can also sign up for our official
 [Polyend Tracker group](https://www.facebook.com/groups/polyendtracker/)
 on Facebook.
 
-Finally, you can ask over at https://help.polyend.com/ to be added to
-a mailing list notifying of new beta releases.
-
 
 ## If you find bugs
 
