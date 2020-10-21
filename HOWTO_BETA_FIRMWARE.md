@@ -41,6 +41,8 @@ next to other `.ptf` files, you can use:
 folders stored the SD card from a computer level. In order to use it activate 
 the File Transfer mode in the Config menu. On Windows 10 you should see the 
 device in Explorer. On macOS, you need to use the [Android File Transfer application](https://www.android.com/filetransfer/).
+* the second emergency flashing procedure (explained at the very bottom of this doc),
+when you have the [Polyend Tool](https://polyend.com/downloads/) already on your computer.
 
 If you erased your card and don't have the latest stable firmware nor the factory content, get
 it from [the Polyend website](https://polyend.com/downloads/) and [official SD card content](https://polyend.com/files/Tracker_SD_1_1.zip) link.
@@ -96,7 +98,7 @@ or the firmware doesn't boot up for any other reason, you can perform
 one of the two emergency flashing procedures as follows:
 
 First method:
-just simply press the hidden reset button on the back panel of the
+* just simply press the hidden reset button on the back panel of the
 instrument and it will automatically flash with a randomly picked firmware 
 `.ptf` file from the SD card Firmware/ folder.
 
