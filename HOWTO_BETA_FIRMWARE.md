@@ -40,11 +40,11 @@ next to other `.ptf` files, you can use:
 * the MTP (Media Transfer Protocol) which lets you browse the files and
 folders stored the SD card from a computer level. In order to use it activate 
 the File Transfer mode in the Config menu. On Windows 10 you should see the 
-device in Explorer. On macOS, you need to use the [Android File Transfer application] (https://www.android.com/filetransfer/).
+device in Explorer. On macOS, you need to use the [Android File Transfer application](https://www.android.com/filetransfer/).
 
 If you erased your card and don't have the latest stable firmware, get
 it from [the Polyend website](https://polyend.com/downloads/).
-Here, you can find the [official SD card content] (https://polyend.com/files/Tracker_SD_1_1.zip).
+Here, you can find the [official SD card content](https://polyend.com/files/Tracker_SD_1_1.zip).
 
 ## Put the SD card back in your Tracker and go to Config
 
