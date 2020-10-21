@@ -37,14 +37,13 @@ including the one you're reading now.
 In order to put the firmware `.ptf` file in the SD card Firmware/ folder 
 next to other `.ptf` files, you can use:
 * the bundled microSD USB adapter to connect the SD card to your computer, or
-* the MTP (Media Transfer Protocol) which lets you browse the files and
+* (starting from 1.1.22) the MTP (Media Transfer Protocol) which lets you browse the files and
 folders stored the SD card from a computer level. In order to use it activate 
 the File Transfer mode in the Config menu. On Windows 10 you should see the 
 device in Explorer. On macOS, you need to use the [Android File Transfer application](https://www.android.com/filetransfer/).
 
-If you erased your card and don't have the latest stable firmware, get
-it from [the Polyend website](https://polyend.com/downloads/).
-Here, you can find the [official SD card content](https://polyend.com/files/Tracker_SD_1_1.zip).
+If you erased your card and don't have the latest stable firmware nor the factory content, get
+it from [the Polyend website](https://polyend.com/downloads/) and [official SD card content](https://polyend.com/files/Tracker_SD_1_1.zip) link.
 
 ## Put the SD card back in your Tracker and go to Config
 
