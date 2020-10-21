@@ -93,7 +93,10 @@ But first, if you're upgrading between beta releases, check the following:
 
 ## In case of trouble
 
-If your device lost power during the upgrade, the SD file was damaged,
+First and simplest action to try is to disconnect the USB C cable connector
+from it's port on the back panel of the instrument. This usually helps.
+
+But if your device lost power during the upgrade, the SD file was damaged,
 or the firmware doesn't boot up for any other reason, you can perform 
 one of the two emergency flashing procedures as follows:
 
