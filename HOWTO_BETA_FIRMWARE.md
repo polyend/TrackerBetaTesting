@@ -36,11 +36,7 @@ including the one you're reading now.
 
 In order to put the firmware `.ptf` file in the SD card Firmware/ folder 
 next to other `.ptf` files, you can use:
-* the bundled microSD USB adapter to connect the SD card to your computer, or
-* (starting from 1.1.22) the MTP (Media Transfer Protocol) which lets you browse the files and
-folders stored the SD card from a computer level. In order to use it activate 
-the File Transfer mode in the Config menu. On Windows 10 you should see the 
-device in Explorer. On macOS, you need to use the [Android File Transfer application](https://www.android.com/filetransfer/).
+* the bundled microSD USB adapter to connect the SD card to your computer,
 * the second emergency flashing procedure (explained at the very bottom of this doc),
 when you have the [Polyend Tool](https://polyend.com/downloads/) already on your computer.
 
