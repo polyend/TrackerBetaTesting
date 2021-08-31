@@ -45,7 +45,7 @@ device in Explorer. On macOS, you need to use the [Android File Transfer applica
 when you have the [Polyend Tool](https://polyend.com/downloads/) already on your computer.
 
 If you erased your card and don't have the latest stable firmware nor the factory content, get
-it from [the Polyend website](https://polyend.com/downloads/) and [official SD card content](https://polyend.com/files/Tracker_SD_1_3.zip) link.
+it from [the Polyend website](https://polyend.com/downloads/) and [official SD card content](https://polyend.com/files/Tracker_SD_content.zip) link.
 
 ## Put the SD card back in your Tracker and go to Config
 
