@@ -8,7 +8,7 @@ firmware.
 
 ## Before you'll start
 
-* **A word about bugs.** Where possible, Polyend will fix any firmware-related issues considered bugs.
+* **A word about bugs.** Where possible, Polyend will fix any reported firmware-related issues considered as bugs.
 
 * **A word about feature requests.** We are always keen on hearing user feedback about possible functionality improvements, 
 however, we are not obligated to implement such feature requests. Please respect that while we appreciate our customers’ opinions and wishes, 
