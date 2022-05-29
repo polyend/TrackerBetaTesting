@@ -6,6 +6,18 @@ This repository exists to enable community members to help testing
 beta versions of the [Polyend Tracker](https://polyend.com/tracker/)
 firmware.
 
+## Before you'll start
+
+* **A word about bugs.** Where possible, Polyend will fix any firmware-related issues considered bugs.
+
+* **A word about feature requests.** We are always keen on hearing user feedback about possible functionality improvements, 
+however, we are not obligated to implement such feature requests. Please respect that while we appreciate our customers’ opinions and wishes, 
+we cannot guarantee or promise to implement them.
+
+  Polyend Tracker was made with some initial assumptions in mind. Its hardware resources are limited, 
+thus not every “simple” (from your perspective as a user) feature request is really simple, 
+or sometimes it is not even possible to implement. Thank you for your understanding.
+
 ## The rules are simple
 
 * **Check for duplicates** before submitting your report or idea.
@@ -24,15 +36,6 @@ firmware.
 * **A clear English description** makes it easier for us to understand you.
   Please don't ignore the provided template!
   
-* **A word about feature requests.** Where possible, Polyend will fix any firmware-related issues considered bugs. 
-Polyend is always keen on hearing user feedback about possible functionality improvements, 
-however, we are not obligated to implement such feature requests. 
-Please respect that while we appreciate our customers’ opinions and wishes, we cannot guarantee or promise to implement them.
-
-  Polyend Tracker was made with some initial assumptions in mind. Its hardware resources are limited, 
-thus not every “simple” (from your perspective as a user) feature request is really simple, 
-or sometimes it is not even possible to implement. Thank you for your understanding.
-
 ## Attachments
 
 Provide as many **attachments** as possible with your report.
