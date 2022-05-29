@@ -28,6 +28,7 @@ firmware.
 Polyend is always keen on hearing user feedback about possible functionality improvements, 
 however, we are not obligated to implement such feature requests. 
 Please respect that while we appreciate our customers’ opinions and wishes, we cannot guarantee or promise to implement them.
+
 Also, please bear in mind, that as every other product, Polyend Tracker was made with some initial hardware and software assumptions.
 It's hardware resources have own limitations, thus not every "simple" (from your perspective as a user) addition and feature request
 is simple or even possible to implement in reality. Thank you for your understanding.
