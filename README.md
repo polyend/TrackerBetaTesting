@@ -21,7 +21,7 @@ firmware.
   Your issue might already be addressed!  If you're interested in testing
   beta firmware, read [HOWTO_BETA_FIRMWARE.md](./HOWTO_BETA_FIRMWARE.md).
 
-* A **clear English description** makes it easier for us to understand you.
+* **A clear English description** makes it easier for us to understand you.
   Please don't ignore the provided template!
   
 * **About feature requests** Where possible, Polyend will fix any firmware-related issues considered bugs. 
