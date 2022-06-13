@@ -6,7 +6,7 @@ This repository exists to enable community members to help testing
 beta versions of the [Polyend Tracker](https://polyend.com/tracker/)
 firmware.
 
-## Before you'll start
+## Before you start
 
 * **A word about bugs.** Where possible, Polyend will fix any reported firmware-related issues considered as bugs.
 
