@@ -1,61 +1,26 @@
-# Polyend Tracker Beta Testing
+# Polyend Tracker Beta Testing moves to Polyend Backstage
 
-![Polyend Tracker Product Image](./images/product-image.jpg)
 
-This repository exists to enable community members to help testing
-beta versions of the [Polyend Tracker](https://polyend.com/tracker/)
-firmware.
+We have decided to move the Polyend Github as we will be migrating bug reporting, feature requests, support, and all other communication to our new official Backstage forum. If you want to join these efforts please sign up at [backstage.polyend.com](https://backstage.polyend.com). The forum should allow us to focus our efforts in one place and respond more efficiently to you.
 
-## Before you start
+Thank you to everyone that participated on GitHub. We plan to be active and responsive on the official forum and hope that it will enable us to connect with the community more easily and be a central hub for all things Polyend.
 
-* **A word about bugs.** Where possible, Polyend will fix any reported firmware-related issues considered as bugs.
+What’s next?
 
-* **A word about feature requests.** We are always keen on hearing user feedback about possible functionality improvements, 
-however, we are not obligated to implement such feature requests. Please respect that while we appreciate our customers’ opinions and wishes, 
-we cannot guarantee or promise to implement them.
+## About Bugs
 
-  Polyend Tracker was made with some initial assumptions in mind. Its hardware resources are limited, 
-thus not every “simple” (from your perspective as a user) feature request is really simple, 
-or sometimes it is not even possible to implement. Thank you for your understanding.
+In the following weeks we will log the most critical bugs from Github into our internal tools for tracking and close them here. After migration some bugs might slip through the cracks. So if you still experience an issue which you logged here, with the latest released firmware, please help us and remind us about it in Backstage. It has a Bug category to track issues for all our products in [released firmware versions](https://polyend.com/downloads/) (for beta, see below).
 
-## The rules are simple
+## About Enhancements
 
-* **Check for duplicates** before submitting your report or idea.
-  We might get a little grumpy if you don't.  First time on GitHub?
-  No worries, the Search bar is right on the [Issues](https://github.com/polyend/TrackerIssues/issues)
-  page.  Just try a few queries for what you're looking for.
+On the other hand, most reports here are feature requests which will not be migrated. Instead we decided to refocus and turn the page: the new forum provides a Wishlist category which allows users to vote for the features they deem most important. We hope this simple but powerful tool will help us determine what the community values as most important and for us to communicate if these features are feasible or not. High votes don’t guarantee a wish will be implemented. But if you have a feature request please draft a wish on the forum and we’ll definitely consider it.
 
-* **Always** refer to the particular firmware version you're currently
-  using.  This is crucial for us to determine if the problem is still
-  there or whether it's been already fixed.  To save yourself the
-  trouble,
-  [look here for the latest published firmware](https://polyend.com/downloads/).
-  Your issue might already be addressed!  If you're interested in testing
-  beta firmware, read [HOWTO_BETA_FIRMWARE.md](./HOWTO_BETA_FIRMWARE.md).
+##Future of Beta
 
-* **A clear English description** makes it easier for us to understand you.
-  Please don't ignore the provided template!
-  
-## Attachments
+Finally, for those of you that own Play and would like to contribute to testing beta releases, we invite you to join the beta program on Backstage. We are kicking off with Play and if it proves to be successful, more products (including Tracker) will follow soon…
 
-Provide as many **attachments** as possible with your report.
-We're especially looking for:
+Interested? Apply [here.](https://docs.google.com/forms/d/e/1FAIpQLSerZVl2sPxLc9tsSiFFhZpHpJ98Zd7eFR027p_q9nxTPKnq-A/viewform)
 
-* direct links to videos where you show the bug;
+Once again thanks for your support and patience. We hope the new forum will serve us better to make our products shine, so you can have more fun making music!
 
-* pictures (you can drag them into the edit box when submitting your
-  bug report);
-
-* zipped projects from the SD card.
-
-## Ready to contribute?
-
-Did you read all that and after searching for your problem you don't see
-it mentioned anywhere?  Alright, click below to get started:
-
-[![New](./images/new-issue.png)](https://github.com/polyend/TrackerIssues/issues/new/choose)
-
-## Thanks!
-
-Through your help and support we'll be able to make the Polyend Tracker
-the best instrument it can!
+Polyend team
