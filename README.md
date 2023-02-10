@@ -1,4 +1,4 @@
-# Polyend Tracker Beta Testing moves to Polyend Backstage
+# Tracker Beta Testing moves to Polyend Backstage
 
 
 We have decided to move the Polyend Github as we will be migrating bug reporting, feature requests, support, and all other communication to our new official Backstage forum. If you want to join these efforts please sign up at [backstage.polyend.com](https://backstage.polyend.com). The forum should allow us to focus our efforts in one place and respond more efficiently to you.
@@ -13,7 +13,7 @@ In the following weeks we will log the most critical bugs from Github into our i
 
 ## About Enhancements
 
-On the other hand, most reports here are feature requests which will not be migrated. Instead we decided to refocus and turn the page: the new forum provides a Wishlist category which allows users to vote for the features they deem most important. We hope this simple but powerful tool will help us determine what the community values as most important and for us to communicate if these features are feasible or not. High votes don’t guarantee a wish will be implemented. But if you have a feature request please draft a wish on the forum and we’ll definitely consider it.
+On the other hand, most reports here are feature requests which will not be migrated. Instead, we decided to refocus and turn the page: the new forum provides a Wishlist category which allows users to vote for the features they deem most important. We hope this simple but powerful tool will help us determine what the community values as most important and for us to communicate if these features are feasible or not. High votes don’t guarantee a wish will be implemented. But if you have a feature request please draft a wish on the forum and we’ll definitely consider it.
 
 ##Future of Beta
 
